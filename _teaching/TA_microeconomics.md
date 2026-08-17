@@ -3,7 +3,6 @@ title: "Teaching assistant, EC1111 Microeconomic Theory and Applications"
 collection: teaching
 type: "Bachelor level course"
 link: "https://www.su.se/english/education/course-catalogue/ec/ec1111"
-permalink: ""
 venue: "Stockholm University, Department of Economics"
 date: 2026-01-01
 location: "Stockholm, Sweden"
