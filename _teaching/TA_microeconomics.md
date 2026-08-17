@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: "https://www.su.se/english/education/course-catalogue/ec/ec1111"
 venue: "Stockholm University, Department of Economics"
-date: 2014-01-01
+date: 2026-01-01
 location: "Stockholm, Sweden"
 ---
 
