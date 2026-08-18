@@ -8,8 +8,11 @@ author_profile: true
 
 ### [EC1111 Microeconomic Theory and Applications](https://www.su.se/english/education/course-catalogue/ec/ec1111)
 
-*Bachelor level*
+*Bachelor level*, Department of Economics, Stockholm University
 
-**Department of Economics, Stockholm University**
+- Spring term 2026
+- Fall term 2026
 
-Spring term 2026, Fall term 2026
+[Material for students](https://svantewold.github.io/undervisning)
+
+---
